@@ -1,2 +1,4 @@
+.idea
+.DS_Store
 /venv/
 /example/local_settings.py
